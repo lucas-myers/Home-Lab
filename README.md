@@ -1,8 +1,18 @@
 # Home-Lab
 My homelab containing Proxmox, Windows, Kali, pfSense, Splunk, Docker, and Cisco switches
 
+Graphics Card: GTX 1060 6 GB
+Memory: 16 GB 3200 
+CPU: Ryzen 3 3300X
+OS: Proxmox
 
-My homelab is currently setup    
+My home lab is currently setup, I don't have everything running at all times as my home lab computer only holds 16 GB, but I am planning to upgrade to 32 GB.
+
+My plan with this lab is to test attacks on the kali machine, then on the other windows 11 machine with sysmon/wazuh running off a docker image on the ubuntu server I will review the attack with a write up.
+
+I also have the ubuntu server running OWASP Juice Shop for web vulnerabilities.
+
+I wanted to explore more in windows server, so I am running a vm of Windows Server 2022 and set up Active Directory.
 
                               ┌──────────────────────┐                                      
 
